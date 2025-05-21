@@ -6,7 +6,7 @@ Inreal JobMatch is a modern web application designed to help users find jobs tai
 
 ## 🚀 Live Demo
 
-- **Frontend**: [https://inrealjobmatch.netlify.app](https://inrealjobmatch.netlify.app)  
+- **Frontend**: [Deployment](https://jobmatchinreal-k177utvu2-rajs-projects-42ea4883.vercel.app/login)  
 - **Repository**: [https://github.com/rajsoni77/jobmatchinreal](https://github.com/rajsoni77/jobmatchinreal)  
 ---
 
@@ -19,7 +19,7 @@ Inreal JobMatch is a modern web application designed to help users find jobs tai
 - React Router
 - Hosted on Vercel
 
-### Backend
+### Backend 
 - Node.js + Express
 - JWT Authentication
 - REST API for user & job data
@@ -50,7 +50,7 @@ npm run build
 ```
 ---
 
-##AI Prompt Design 
+## AI Prompt Design 
 
 When a user clicks “Find My Matches”, their profile (skills, experience, location, job preference) is sent to the backend. The backend formats a prompt like this:
 
@@ -60,7 +60,7 @@ This prompt is sent to OpenAI's GPT-3.5 API, and the top 3 job suggestions are r
 
 ---
 
-##🗂️ Code Architecture
+## 🗂️ Code Architecture
 
 ```bash
 Inreal_JobMatch/
@@ -79,6 +79,6 @@ Inreal_JobMatch/
 └── README.md
 ```
 ---
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 RAJ SONI
 Developed as part of a Full-Stack Developer Assignment.
