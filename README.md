@@ -6,7 +6,7 @@ Inreal JobMatch is a modern web application designed to help users find jobs tai
 
 ## 🚀 Live Demo
 
-- **Frontend**: [Deployment](https://jobmatchinreal-k177utvu2-rajs-projects-42ea4883.vercel.app/login)  
+- **Frontend**: [Deployment](https://jobmatchinreal.vercel.app)  
 - **Repository**: [https://github.com/rajsoni77/jobmatchinreal](https://github.com/rajsoni77/jobmatchinreal)  
 ---
 
